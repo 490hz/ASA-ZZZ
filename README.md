@@ -23,21 +23,47 @@
 ## Features
 
 ### Player
-- Auto Talk
+- Damage Multiplier
 - God Mode
 - Hit Multiplier
+- Instant Stun
 - Noclip
+- Unlimited Assist Points
+- Unlimited Ultimate
 
 ### World
+- Auto Skip
+  - Cutscene
+  - Dialogue
+  - Galge
+  - Comic
+- Auto Talk
+- Dumb Enemies
 - Global Speed
+- Kill Aura
+- Instant Win
+- Mob Vacuum
 
+### Mini Games
+- Bizarre Brigade
+  - God Mode
+- Mach 25
+   - God Mode
+- Snake Duel
+  - God Mode
 ### Visuals
+- Skin Changer
+- Fov Changer
 - FPS Indicator
-- FOV Changer
+- FPS Unlocker
+- Free Camera
+- Hide Ui
 - Peeking
+- Uid Changer
 
 ### Misc
 - Custom Menu Font
+- Language
 
 ---
 
