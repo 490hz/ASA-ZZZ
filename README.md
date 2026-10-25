@@ -65,7 +65,7 @@
 - Custom Menu Font
 - Language
 
-### DX11/DX12 SUPPORTS
+### DX11 ONLY SUPPORTS
 
 ---
 
