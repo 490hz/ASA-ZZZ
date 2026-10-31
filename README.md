@@ -44,6 +44,12 @@
 - Instant Win
 - Mob Vacuum
 
+### Event
+- Enigma of the Labyrinth
+  - Container ESP
+  - Container Teleport
+  - Container Vacuum
+  - Search Speed
 ### Mini Games
 - Bizarre Brigade
   - God Mode
@@ -52,11 +58,17 @@
 - Snake Duel
   - God Mode
 ### Visuals
+- ESP
+   - Monster
+   - Chest
 - Skin Changer
 - Fov Changer
 - FPS Indicator
 - FPS Unlocker
 - Free Camera
+- Status Bar
+- Max Cinema
+- Max Potential
 - Hide Ui
 - Peeking
 - Uid Changer
