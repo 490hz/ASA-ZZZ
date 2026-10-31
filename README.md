@@ -30,6 +30,8 @@
 - Noclip
 - Unlimited Assist Points
 - Unlimited Ultimate
+- Chest Teleport
+- Quest Teleport
 
 ### World
 - Auto Skip
@@ -43,6 +45,7 @@
 - Kill Aura
 - Instant Win
 - Mob Vacuum
+- Chest Vacuum
 
 ### Event
 - Enigma of the Labyrinth
@@ -77,7 +80,7 @@
 - Custom Menu Font
 - Language
 
-### DX11 ONLY SUPPORTS
+### DX11/DX12 SUPPORTS
 
 ---
 
