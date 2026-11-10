@@ -30,6 +30,7 @@
 - Noclip
 - Unlimited Assist Points
 - Unlimited Ultimate
+- Unlimited SP
 - Chest Teleport
 - Quest Teleport
 
@@ -62,7 +63,6 @@
   - God Mode
 ### Visuals
 - ESP
-   - Monster
    - Chest
 - Skin Changer
 - Fov Changer
@@ -80,7 +80,7 @@
 - Custom Menu Font
 - Language
 
-### DX11/DX12 SUPPORTS
+### DX11/DX12/FRAMGE GENERATION SUPPORTS
 
 ---
 
