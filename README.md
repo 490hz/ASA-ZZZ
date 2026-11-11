@@ -27,6 +27,8 @@
 - God Mode
 - Hit Multiplier
 - Instant Stun
+- M6 Unlock
+- W-Engine R5
 - Noclip
 - Unlimited Assist Points
 - Unlimited Ultimate
@@ -70,7 +72,6 @@
 - FPS Unlocker
 - Free Camera
 - Status Bar
-- Max Cinema
 - Max Potential
 - Hide Ui
 - Peeking
