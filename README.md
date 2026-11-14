@@ -27,6 +27,9 @@
 - God Mode
 - Hit Multiplier
 - Instant Stun
+- Auto Dodge
+- Auto Parry
+- Unlock All Characters
 - M6 Unlock
 - W-Engine R5
 - Noclip
