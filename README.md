@@ -32,11 +32,14 @@
 - Unlock All Characters
 - M6 Unlock
 - W-Engine R5
+- Max Skill Level
+- Max Drive Disk Level
+- Max Potential
 - Noclip
 - Unlimited Assist Points
 - Unlimited Ultimate
 - Unlimited SP
-- Chest Teleport
+- Infinite Dash
 - Quest Teleport
 
 ### World
@@ -56,7 +59,6 @@
 ### Event
 - Enigma of the Labyrinth
   - Container ESP
-  - Container Teleport
   - Container Vacuum
   - Search Speed
 ### Mini Games
@@ -69,7 +71,7 @@
 ### Visuals
 - ESP
    - Chest
-- Skin Changer
+- Skin Unlocker
 - Fov Changer
 - FPS Indicator
 - FPS Unlocker
