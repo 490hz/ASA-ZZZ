@@ -29,7 +29,7 @@
 - Instant Stun
 - Auto Dodge
 - Auto Parry
-- Unlock All Characters
+- Unlock All Agents
 - M6 Unlock
 - W-Engine R5
 - Max Skill Level
@@ -60,6 +60,7 @@
 - Enigma of the Labyrinth
   - Container ESP
   - Container Vacuum
+  - Instant Open
   - Search Speed
 ### Mini Games
 - Bizarre Brigade
