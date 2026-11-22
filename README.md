@@ -78,7 +78,6 @@
 - FPS Unlocker
 - Free Camera
 - Status Bar
-- Max Potential
 - Hide Ui
 - Peeking
 - Uid Changer
