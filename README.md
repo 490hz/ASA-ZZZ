@@ -56,8 +56,7 @@
 - Mob Vacuum
 - Chest Vacuum
 
-### Event
-- Enigma of the Labyrinth
+### Operation Bagel
   - Container ESP
   - Container Vacuum
   - Instant Open
